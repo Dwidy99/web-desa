@@ -14,6 +14,7 @@
         href="<?= base_url('assets/'); ?>assets-web/owl-carousel/dist/assets/owl.theme.default.min.css" />
 
     <link rel="stylesheet" href="<?= base_url('assets/'); ?>assets-web/css/style.css" />
+    <link rel="shortcut icon" href="<?= base_url('assets/img/logo/logo-1.png') ?>">
     <title>Desa Cilangkap, Kabupaten Lebak, Provinsi Banten</title>
 </head>
 
